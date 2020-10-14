@@ -1,0 +1,415 @@
+[
+ {
+   "Effective listing date": "25/11/2011",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Arnhem Plateau Sandstone Shrubland Complex",
+   "State": "NT",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "26/08/2005",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Blue Gum High Forest of the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "4/04/2001",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Brigalow (Acacia harpophylla dominant and co-dominant)",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "4/04/2001",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Brigalow (Acacia harpophylla dominant and co-dominant)",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "19/05/2012",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Broad leaf tea-tree (Melaleuca viridiflora) woodlands in high rainfall coastal north Queensland",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Buloke Woodlands of the Riverina and Murray-Darling Depression Bioregions",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Buloke Woodlands of the Riverina and Murray-Darling Depression Bioregions",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Buloke Woodlands of the Riverina and Murray-Darling Depression Bioregions",
+   "State": "SA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Buloke Woodlands of the Riverina and Murray-Darling Depression Bioregions",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "17/03/2015",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Castlereagh Scribbly Gum and Agnes Banks Woodlands of the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "7/05/2015",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Central Hunter Valley eucalypt forest and woodland",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "17/03/2015",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Cooks River/Castlereagh Ironbark Forest of the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/03/2011",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Coolibah - Black Box Woodlands of the Darling Riverine Plains and the Brigalow Belt South Bioregions",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/03/2011",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Coolibah - Black Box Woodlands of the Darling Riverine Plains and the Brigalow Belt South Bioregions",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Corymbia calophylla - Kingia australis woodlands on heavy soils of the Swan Coastal Plain",
+   "State": "WA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Corymbia calophylla - Xanthorrhoea preissii woodlands and shrublands of the Swan Coastal Plain",
+   "State": "WA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "9/12/2009",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Cumberland Plain Shale Woodlands and Shale-Gravel Transition Forest",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Eastern Suburbs Banksia Scrub of the Sydney Region",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "4/12/2015",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Eucalypt Woodlands of the Western Australian Wheatbelt",
+   "State": "WA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/09/2004",
+   "EPBC listing": "Vulnerable",
+   "Forest threatened ecological community": "Eucalyptus ovata - Callitris oblonga Forest",
+   "State": "Tas",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "13/08/2013",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Eyre Peninsula Blue Gum (Eucalyptus petiolaris) Woodland",
+   "State": "SA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "7/01/2009",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Gippsland Red Gum (Eucalyptus tereticornis subsp. mediana) Grassy Woodland and Associated Native Grassland",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "25/06/2009",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Grassy Eucalypt Woodland of the Victorian Volcanic Plain",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/04/2010",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Grey Box (Eucalyptus microcarpa) Grassy Woodlands and Derived Native Grasslands of South-eastern Australia",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/04/2010",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Grey Box (Eucalyptus microcarpa) Grassy Woodlands and Derived Native Grasslands of South-eastern Australia",
+   "State": "SA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/04/2010",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Grey Box (Eucalyptus microcarpa) Grassy Woodlands and Derived Native Grasslands of South-eastern Australia",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/05/2014",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Kangaroo Island Narrow-leaved Mallee (Eucalyptus cneorifolia) Woodland",
+   "State": "SA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "10/10/2008",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Littoral Rainforest and Coastal Vine Thickets of Eastern Australia",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "10/10/2008",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Littoral Rainforest and Coastal Vine Thickets of Eastern Australia",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "10/10/2008",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Littoral Rainforest and Coastal Vine Thickets of Eastern Australia",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/02/2013",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Lowland Grassy Woodland in the South East Corner Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/02/2013",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Lowland Grassy Woodland in the South East Corner Bioregion",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "25/11/2011",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Lowland Rainforest of Subtropical Australia",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "25/11/2011",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Lowland Rainforest of Subtropical Australia",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "8/10/2002",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Mabi Forest (Complex Notophyll Vine Forest 5b)",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "27/02/2013",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Monsoon vine thickets on the coastal sand dunes of Dampier Peninsula",
+   "State": "WA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/03/2011",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "New England Peppermint (Eucalyptus nova-anglica) Grassy Woodlands",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/03/2011",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "New England Peppermint (Eucalyptus nova-anglica) Grassy Woodlands",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "21/06/2007",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Peppermint Box (Eucalyptus odorata) Grassy Woodland of South Australia",
+   "State": "SA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/07/2000",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Perched Wetlands of the Wheatbelt region with extensive stands of living sheoak and paperbark across the lake floor (Toolibin Lake)",
+   "State": "WA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/02/2014",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Proteaceae Dominated Kwongkan Shrublands of the Southeast Coastal Floristic Province of Western Australia",
+   "State": "WA",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "4/04/2001",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Semi-evergreen vine thickets of the Brigalow Belt (North and South) and Nandewar Bioregions",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "4/04/2001",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Semi-evergreen vine thickets of the Brigalow Belt (North and South) and Nandewar Bioregions",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "16/12/2014",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Shale Sandstone Transition Forest of the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "4/04/2001",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Shale/Sandstone Transition Forest",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "28/08/2015",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Southern Highlands Shale Forest and Woodland in the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "15/04/2005",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Swamp Tea-tree (Melaleuca irbyana) Forest of South-east Queensland",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "26/08/2005",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Turpentine-Ironbark Forest in the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "25/11/2011",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Upland Basalt Eucalypt Forests of the Sydney Basin Bioregion",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "5/05/2016",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Warkworth Sands Woodland of the Hunter Valley",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "1/08/2005",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Weeping Myall - Coobah - Scrub Wilga Shrubland of the Hunter Valley",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "7/01/2009",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Weeping Myall Woodlands",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "7/01/2009",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Weeping Myall Woodlands",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "7/01/2009",
+   "EPBC listing": "Endangered",
+   "Forest threatened ecological community": "Weeping Myall Woodlands",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "27/02/2013",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "Western Sydney Dry Rainforest and Moist Woodland on Shale",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "17/05/2006",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "White Box-Yellow Box-Blakely's Red Gum Grassy Woodland and Derived Native Grassland",
+   "State": "ACT",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "17/05/2006",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "White Box-Yellow Box-Blakely's Red Gum Grassy Woodland and Derived Native Grassland",
+   "State": "NSW",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "17/05/2006",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "White Box-Yellow Box-Blakely's Red Gum Grassy Woodland and Derived Native Grassland",
+   "State": "Qld",
+   "Pivot Field Values": 1
+ },
+ {
+   "Effective listing date": "17/05/2006",
+   "EPBC listing": "Critically Endangered",
+   "Forest threatened ecological community": "White Box-Yellow Box-Blakely's Red Gum Grassy Woodland and Derived Native Grassland",
+   "State": "Vic",
+   "Pivot Field Values": 1
+ }
+]
